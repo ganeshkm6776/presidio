@@ -10,6 +10,7 @@ nav:
   - Presidio: 
     - Home: index.md
     - Installation: installation.md
+    - Custom Docker Images: custom_docker_images.md
     - FAQ: faq.md
   - Quick start: 
     - Home: getting_started.md
